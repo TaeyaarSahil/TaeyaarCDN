@@ -1,0 +1,33 @@
+.bg-white{
+	background: #FFFFFF;
+}
+.bg-orange{
+	background-color: #E16726 !important;
+}
+.bg-gray{
+   	background-color: #F7F7F7; 
+}
+.bg-welcome{
+    background-color:#FDFBFD !important;
+}
+.bg-gblue{
+	background-color:  #2A3C50 !important;
+}
+.txt-gblue{
+	color: #2A3C50 !important;
+}
+.txt-white{
+	color: #FFFFFF !important;
+}
+.txt-orange{
+	color: #E16726 !important;
+}
+.txt-gray{
+	color: #6E6E6E;
+}
+.txt-Saffron{
+color: #F3AF3B;
+}
+.border-gray{
+	border: 1px solid #6E6E6E !important;
+}
